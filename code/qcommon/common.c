@@ -196,6 +196,11 @@ void QDECL Com_Printf( const char *fmt, ... ) {
 			FS_Write(msg, strlen(msg), logfile);
 		}
 	}
+
+#ifdef _DEBUG
+	// We write it to console just in case we need it
+	printf(msg);
+#endif
 }
 
 
