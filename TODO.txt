@@ -1,0 +1,6 @@
+Reorganize project files
+Delete everything that is not needed in this project
+Change output directories on some of the generated files
+Why can't I start any game (possibly OpenGL related, not sure)
+
+Change to 64 bits (Currently I wouldn't even know where to start)
