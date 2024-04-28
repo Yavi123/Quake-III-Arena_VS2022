@@ -46,3 +46,12 @@
 *.exe
 *.out
 *.app
+
+# dont know(?)
+*.bsc
+
+# Asset files for running the game, too big for git
+threewave/
+missionpack/
+baseq3/
+baseoa/
