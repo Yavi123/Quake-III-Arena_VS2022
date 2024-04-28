@@ -1,0 +1,48 @@
+[Tt]emp/
+[Bb]in/*.exe
+[Bb]in/*.exp
+[Bb]in/*.pdb
+[Bb]in/*.dll
+[Bb]in/*.log
+[Bb]in/*.lib
+[Ll]ib/
+[Oo]bj/
+
+.vs/
+
+*.user
+*.obj
+*.tlog
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
